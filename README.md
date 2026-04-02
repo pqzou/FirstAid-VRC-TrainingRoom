@@ -5,7 +5,7 @@ PS:将会在近几天将源文件上传（正在处理商业AED模型）
 
 ## VRC 地图访问
 完整地图可通过以下链接访问：  
-[VRChat地图](https://vrchat.com/home/world/wrld_33a3b225-e90a-4c1c-a84d-85bf5929f18f)
+[VRChat急救虚拟现实训练室](https://vrchat.com/home/world/wrld_33a3b225-e90a-4c1c-a84d-85bf5929f18f)
 
 ## 相关急救资料
 PPT、文章、视频等内容请访问知识库仓库：  
