@@ -21,7 +21,12 @@
 - AED语音（英文） - [链接](https://www.youtube.com/watch?v=oEK2CHGT4eM)
 - AED语音（不含提示按下按钮部分）（中文） - [链接](https://v.douyin.com/WCdMzgEd8ds/)
 - AED语音（仅提示按下按钮部分）（中文） - [链接](https://www.bilibili.com/video/BV1W8Mmz2EZu)
-
+- 窗户 - [链接](https://sketchfab.com/3d-models/window-and-door-3b5baba446494029ab6692ba137307db)
+- 天空盒背景 - [链接](https://polyhaven.com/a/modern_evening_street)
+- 时钟 - [链接](https://booth.pm/zh-cn/items/3803731)
+- 屏幕 - [链接](https://booth.pm/zh-cn/items/5256934)
+- Asset List Maker - [链接](https://booth.pm/zh-cn/items/3775671)
+- -
 ---
 
 ## 说明
